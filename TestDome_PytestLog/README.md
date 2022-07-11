@@ -1,5 +1,5 @@
-1. ????????????http://appfront.huice.com/
-    ??????C???????C:\Windows\System32\drivers\etc
+1. 项目地址：http://appfront.huice.com/
+    需要在电脑本地配置相关文件   C:\Windows\System32\drivers\etc
     '''
     139.198.109.63 bbs.huice.com
     139.198.109.63 appfront.huice.com
@@ -21,6 +21,7 @@
     0.0.0.0 jrebel.npegeek.com
     192.168.233.136 huiceserver
     '''
-2. ???pytest????????
-3. PageObject.py ???????
-4. test_case.py ????????????
+2. 配置pytest.ini 实现日志输出和生产allure报告数据文件
+    使用allure generate --clean ./report/result/ -o ./report/html/  生产HTML报告
+3. PageObject.py PO页面封装
+4. test_case.py 用例封装
