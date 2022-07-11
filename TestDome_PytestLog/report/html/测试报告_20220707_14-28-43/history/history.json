@@ -1,0 +1,99 @@
+{
+  "214f52e1490480f1123da472efd269e3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "11fc74fdd41e8eba",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 测试用例不依次执行，需调用执行~",
+      "time" : {
+        "start" : 1657175362199,
+        "stop" : 1657175362199,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4563020ee40d4ee9485979845d46f58a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b7dc5c784fb3ecde",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657175328447,
+        "stop" : 1657175331013,
+        "duration" : 2566
+      }
+    } ]
+  },
+  "35590fe14d44e714d9bc1cb3c2c0b598" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "64cdfa5f01d28e08",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657175331020,
+        "stop" : 1657175347498,
+        "duration" : 16478
+      }
+    } ]
+  },
+  "25546c0990d1249d48ecf14a68bfee81" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5d9362cb34362b4a",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 测试用例不依次执行，需调用执行~",
+      "time" : {
+        "start" : 1657175362194,
+        "stop" : 1657175362194,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3b2c50c04c8de5604ed178dd7f37b522" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6089db52996e8ad7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657175347521,
+        "stop" : 1657175362177,
+        "duration" : 14656
+      }
+    } ]
+  }
+}

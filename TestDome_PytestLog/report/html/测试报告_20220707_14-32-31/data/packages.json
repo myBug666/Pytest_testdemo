@@ -1,0 +1,143 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_day1",
+    "children" : [ {
+      "name" : "test_login",
+      "uid" : "43db7929097c3126",
+      "parentUid" : "6abf3e4a97d4162e531212b01cbc9908",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657175328447,
+        "stop" : 1657175331013,
+        "duration" : 2566
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_clear[tian-jc-123@qq.com-13812345678-福庆路街道55号-Antigua and Barbuda-安提瓜和巴布--]",
+      "uid" : "df68b12c728ab5cb",
+      "parentUid" : "6abf3e4a97d4162e531212b01cbc9908",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657175331020,
+        "stop" : 1657175347498,
+        "duration" : 16478
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "''", "''", "'123@qq.com'", "'13812345678'", "'安提瓜和巴布'", "'福庆路街道55号'", "'tian'", "'jc'", "'Antigua and Barbuda'" ]
+    }, {
+      "name" : "test_clear[tian-jc-123@qq.com-13812345678-福庆路街道55号-Antigua and Barbuda-安提瓜和巴布-北京城市-01001]",
+      "uid" : "bfe63c854f1f5cb4",
+      "parentUid" : "6abf3e4a97d4162e531212b01cbc9908",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657175347521,
+        "stop" : 1657175362177,
+        "duration" : 14656
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'北京城市'", "'01001'", "'123@qq.com'", "'13812345678'", "'安提瓜和巴布'", "'福庆路街道55号'", "'tian'", "'jc'", "'Antigua and Barbuda'" ]
+    }, {
+      "name" : "test_gouwu[tian-jc-123@qq.com-13812345678-福庆路街道55号-Antigua and Barbuda-安提瓜和巴布--]",
+      "uid" : "1261875b6a310779",
+      "parentUid" : "6abf3e4a97d4162e531212b01cbc9908",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1657175362194,
+        "stop" : 1657175362194,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "''", "''", "'123@qq.com'", "'13812345678'", "'安提瓜和巴布'", "'福庆路街道55号'", "'tian'", "'jc'", "'Antigua and Barbuda'" ]
+    }, {
+      "name" : "test_gouwu[tian-jc-123@qq.com-13812345678-福庆路街道55号-Antigua and Barbuda-安提瓜和巴布-北京城市-01001]",
+      "uid" : "1e8faf70160633f2",
+      "parentUid" : "6abf3e4a97d4162e531212b01cbc9908",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1657175362199,
+        "stop" : 1657175362199,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'北京城市'", "'01001'", "'123@qq.com'", "'13812345678'", "'安提瓜和巴布'", "'福庆路街道55号'", "'tian'", "'jc'", "'Antigua and Barbuda'" ]
+    } ],
+    "uid" : "6abf3e4a97d4162e531212b01cbc9908"
+  }, {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "test_login",
+      "uid" : "6bf0a60555d2ad5e",
+      "parentUid" : "3b2e467b921b0ea8d4803b9c79d92d0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657175564858,
+        "stop" : 1657175568743,
+        "duration" : 3885
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_clear[tian-jc-123@qq.com-13812345678-福庆路街道55号-Antigua and Barbuda-安提瓜和巴布--]",
+      "uid" : "4c03cb467ba4c046",
+      "parentUid" : "3b2e467b921b0ea8d4803b9c79d92d0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657175568750,
+        "stop" : 1657175583537,
+        "duration" : 14787
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "''", "''", "'123@qq.com'", "'13812345678'", "'安提瓜和巴布'", "'福庆路街道55号'", "'tian'", "'jc'", "'Antigua and Barbuda'" ]
+    }, {
+      "name" : "test_clear[tian-jc-123@qq.com-13812345678-福庆路街道55号-Antigua and Barbuda-安提瓜和巴布-北京城市-01001]",
+      "uid" : "24e9d2e3e1b1bec6",
+      "parentUid" : "3b2e467b921b0ea8d4803b9c79d92d0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657175583556,
+        "stop" : 1657175599606,
+        "duration" : 16050
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'北京城市'", "'01001'", "'123@qq.com'", "'13812345678'", "'安提瓜和巴布'", "'福庆路街道55号'", "'tian'", "'jc'", "'Antigua and Barbuda'" ]
+    }, {
+      "name" : "test_gouwu[tian-jc-123@qq.com-13812345678-福庆路街道55号-Antigua and Barbuda-安提瓜和巴布--]",
+      "uid" : "9c33b214fd060112",
+      "parentUid" : "3b2e467b921b0ea8d4803b9c79d92d0c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1657175599629,
+        "stop" : 1657175599629,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "''", "''", "'123@qq.com'", "'13812345678'", "'安提瓜和巴布'", "'福庆路街道55号'", "'tian'", "'jc'", "'Antigua and Barbuda'" ]
+    }, {
+      "name" : "test_gouwu[tian-jc-123@qq.com-13812345678-福庆路街道55号-Antigua and Barbuda-安提瓜和巴布-北京城市-01001]",
+      "uid" : "ff6b973eec30b79b",
+      "parentUid" : "3b2e467b921b0ea8d4803b9c79d92d0c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1657175599633,
+        "stop" : 1657175599633,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'北京城市'", "'01001'", "'123@qq.com'", "'13812345678'", "'安提瓜和巴布'", "'福庆路街道55号'", "'tian'", "'jc'", "'Antigua and Barbuda'" ]
+    } ],
+    "uid" : "3b2e467b921b0ea8d4803b9c79d92d0c"
+  } ]
+}

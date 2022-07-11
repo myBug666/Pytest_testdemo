@@ -1,0 +1,238 @@
+{
+  "uid" : "522b51e37a40baff",
+  "name" : "test_clear[tian-jc-123@qq.com-13812345678-福庆路街道55号-Antigua and Barbuda-安提瓜和巴布-北京城市-01001]",
+  "fullName" : "test_day1#test_clear",
+  "historyId" : "3b2c50c04c8de5604ed178dd7f37b522",
+  "time" : {
+    "start" : 1657175304977,
+    "stop" : 1657175319097,
+    "duration" : 14120
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1657175285269,
+      "stop" : 1657175288800,
+      "duration" : 3531
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4f436f71072e5ec2",
+      "name" : "91e3cf28-4199-45d9-bc95-76b1afdf24bb-attachment.attach",
+      "source" : "4f436f71072e5ec2.attach",
+      "type" : "image/png",
+      "size" : 366779
+    }, {
+      "uid" : "d43371367242da9e",
+      "name" : "a82c3ae3-8a88-4cf2-9ac3-e0f8c11b0a10-attachment.attach",
+      "source" : "d43371367242da9e.attach",
+      "type" : "image/png",
+      "size" : 200467
+    }, {
+      "uid" : "25d78a808a8245b9",
+      "name" : "0461191e-5840-4f5f-ac62-e70d4ea93114-attachment.attach",
+      "source" : "25d78a808a8245b9.attach",
+      "type" : "image/png",
+      "size" : 200669
+    }, {
+      "uid" : "6542b47e6cde7c9d",
+      "name" : "6b1a7380-60fa-4957-9fd0-85e35a8cf445-attachment.attach",
+      "source" : "6542b47e6cde7c9d.attach",
+      "type" : "image/png",
+      "size" : 93637
+    }, {
+      "uid" : "4fdd6c3c9b3101e9",
+      "name" : "8d682f63-efcf-426f-8abb-9acb8487d63a-attachment.attach",
+      "source" : "4fdd6c3c9b3101e9.attach",
+      "type" : "image/png",
+      "size" : 93637
+    }, {
+      "uid" : "83a9ecea0c9aaed2",
+      "name" : "07f1b0fa-74c7-44b4-8226-ac8d7b12c03e-attachment.attach",
+      "source" : "83a9ecea0c9aaed2.attach",
+      "type" : "image/png",
+      "size" : 93532
+    }, {
+      "uid" : "2d9e643298ee92b5",
+      "name" : "2b81172c-64a4-4182-84a9-bfa8bdcf0f39-attachment.attach",
+      "source" : "2d9e643298ee92b5.attach",
+      "type" : "image/png",
+      "size" : 94062
+    }, {
+      "uid" : "614c33958a30d05c",
+      "name" : "59bcb842-1975-4db2-948f-d34ac0c8161e-attachment.attach",
+      "source" : "614c33958a30d05c.attach",
+      "type" : "image/png",
+      "size" : 93691
+    }, {
+      "uid" : "d3e3cbe26deab93e",
+      "name" : "48a1718a-6684-408e-8fd2-4ac27e6675d8-attachment.attach",
+      "source" : "d3e3cbe26deab93e.attach",
+      "type" : "image/png",
+      "size" : 94165
+    }, {
+      "uid" : "6feb40345844d116",
+      "name" : "24d85618-9c6b-43a1-bca8-880050910152-attachment.attach",
+      "source" : "6feb40345844d116.attach",
+      "type" : "image/png",
+      "size" : 92220
+    }, {
+      "uid" : "85b29cd44600853e",
+      "name" : "cffa86c2-241a-40b2-a6f8-6b2a4457c1bf-attachment.attach",
+      "source" : "85b29cd44600853e.attach",
+      "type" : "image/png",
+      "size" : 93747
+    }, {
+      "uid" : "d30604c798b8e36",
+      "name" : "de08f193-59f2-4d4c-8cdb-1c445fcbfd7e-attachment.attach",
+      "source" : "d30604c798b8e36.attach",
+      "type" : "image/png",
+      "size" : 94993
+    }, {
+      "uid" : "2bdca9de97915040",
+      "name" : "478f179e-69de-4901-97c7-0bb7d0afedc5-attachment.attach",
+      "source" : "2bdca9de97915040.attach",
+      "type" : "image/png",
+      "size" : 96241
+    }, {
+      "uid" : "4ada4d34734d5eea",
+      "name" : "5e2d4192-889a-4c05-be90-5c736748d81c-attachment.attach",
+      "source" : "4ada4d34734d5eea.attach",
+      "type" : "image/png",
+      "size" : 96965
+    }, {
+      "uid" : "eff832ca6b5b4763",
+      "name" : "49c2fd76-0b63-49d9-9714-b5260aab4458-attachment.attach",
+      "source" : "eff832ca6b5b4763.attach",
+      "type" : "image/png",
+      "size" : 97150
+    }, {
+      "uid" : "f5683f57ec54f697",
+      "name" : "3a50f0f3-4822-4ab6-9f94-f98c82051a09-attachment.attach",
+      "source" : "f5683f57ec54f697.attach",
+      "type" : "image/png",
+      "size" : 97869
+    }, {
+      "uid" : "b1fd620497f58fb7",
+      "name" : "4fdd9d64-6ade-440e-b589-43af16fb92e8-attachment.attach",
+      "source" : "b1fd620497f58fb7.attach",
+      "type" : "image/png",
+      "size" : 98490
+    }, {
+      "uid" : "7c4f2d38b989e72e",
+      "name" : "33583a27-f8ad-4b3a-8584-36f738a97f54-attachment.attach",
+      "source" : "7c4f2d38b989e72e.attach",
+      "type" : "image/png",
+      "size" : 98490
+    }, {
+      "uid" : "e095422fe51af58a",
+      "name" : "289139bc-b1de-428c-9a1a-4f0215870bf8-attachment.attach",
+      "source" : "e095422fe51af58a.attach",
+      "type" : "image/png",
+      "size" : 58279
+    }, {
+      "uid" : "707a1c0b872ca560",
+      "name" : "log",
+      "source" : "707a1c0b872ca560.txt",
+      "type" : "text/plain",
+      "size" : 3557
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 20,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1657175319146,
+      "stop" : 1657175323854,
+      "duration" : 4708
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "suite",
+    "value" : "test_day1"
+  }, {
+    "name" : "host",
+    "value" : "WIN-A7IIGHBBGE6"
+  }, {
+    "name" : "thread",
+    "value" : "20368-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_day1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "chengshi",
+    "value" : "'北京城市'"
+  }, {
+    "name" : "code",
+    "value" : "'01001'"
+  }, {
+    "name" : "email",
+    "value" : "'123@qq.com'"
+  }, {
+    "name" : "phone",
+    "value" : "'13812345678'"
+  }, {
+    "name" : "sheng",
+    "value" : "'安提瓜和巴布'"
+  }, {
+    "name" : "street1",
+    "value" : "'福庆路街道55号'"
+  }, {
+    "name" : "user1",
+    "value" : "'tian'"
+  }, {
+    "name" : "user2",
+    "value" : "'jc'"
+  }, {
+    "name" : "value",
+    "value" : "'Antigua and Barbuda'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "run(order=3)" ]
+  },
+  "source" : "522b51e37a40baff.json",
+  "parameterValues" : [ "'北京城市'", "'01001'", "'123@qq.com'", "'13812345678'", "'安提瓜和巴布'", "'福庆路街道55号'", "'tian'", "'jc'", "'Antigua and Barbuda'" ]
+}

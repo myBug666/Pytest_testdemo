@@ -1,0 +1,61 @@
+INFO     pages:pages.py:18 PO实例化成功
+INFO     pages:pages.py:22 访问元素rm
+INFO     pages:pages.py:33 正在定位元素/html/body/div[1]/div/div[2]/div/div/table/tbody/tr/td[8]/a
+INFO     pages:pages.py:48 元素定位成功, tag_name=a
+INFO     test_day1:test_day1.py:65 删除货运地址信息~~~
+INFO     test_day1:test_day1.py:45 测试用例开始执行
+INFO     pages:pages.py:18 PO实例化成功
+INFO     pages:pages.py:22 访问元素nav
+INFO     pages:pages.py:33 正在定位元素/html/body/div[1]/div/div[1]/div[2]/div[2]/ul[1]/li[1]/div[1]
+INFO     pages:pages.py:48 元素定位成功, tag_name=div
+INFO     pages:pages.py:22 访问元素nav_btn
+INFO     pages:pages.py:33 正在定位元素/html/body/div[1]/div/div/div[1]/div[1]/div[1]/div[4]/div[3]/button/em/span
+INFO     pages:pages.py:48 元素定位成功, tag_name=span
+INFO     pages:pages.py:22 访问元素zhifu
+INFO     pages:pages.py:33 正在定位元素/html/body/div[1]/div/div/div/div/div[3]/div[2]/div[2]/button/span/span
+INFO     pages:pages.py:48 元素定位成功, tag_name=span
+INFO     pages:pages.py:119 页面输入开始
+INFO     pages:pages.py:22 访问元素user1
+INFO     pages:pages.py:33 正在定位元素//*[@id="billing:firstname"]
+INFO     pages:pages.py:48 元素定位成功, tag_name=input
+INFO     pages:pages.py:22 访问元素user1
+INFO     pages:pages.py:33 正在定位元素//*[@id="billing:firstname"]
+INFO     pages:pages.py:48 元素定位成功, tag_name=input
+INFO     pages:pages.py:22 访问元素user2
+INFO     pages:pages.py:33 正在定位元素//*[@id="billing:lastname"]
+INFO     pages:pages.py:48 元素定位成功, tag_name=input
+INFO     pages:pages.py:22 访问元素user2
+INFO     pages:pages.py:33 正在定位元素//*[@id="billing:lastname"]
+INFO     pages:pages.py:48 元素定位成功, tag_name=input
+INFO     pages:pages.py:22 访问元素email
+INFO     pages:pages.py:33 正在定位元素//*[@id="billing:email"]
+INFO     pages:pages.py:48 元素定位成功, tag_name=input
+INFO     pages:pages.py:22 访问元素email
+INFO     pages:pages.py:33 正在定位元素//*[@id="billing:email"]
+INFO     pages:pages.py:48 元素定位成功, tag_name=input
+INFO     pages:pages.py:22 访问元素phone
+INFO     pages:pages.py:33 正在定位元素//*[@id="billing:telephone"]
+INFO     pages:pages.py:48 元素定位成功, tag_name=input
+INFO     pages:pages.py:22 访问元素street1
+INFO     pages:pages.py:33 正在定位元素//*[@id="billing:street1"]
+INFO     pages:pages.py:48 元素定位成功, tag_name=input
+INFO     pages:pages.py:22 访问元素lect
+INFO     pages:pages.py:33 正在定位元素//*[@id="billing:country"]
+INFO     pages:pages.py:48 元素定位成功, tag_name=select
+INFO     pages:pages.py:22 访问元素sheng
+INFO     pages:pages.py:33 正在定位元素//*[@id="state"]
+INFO     pages:pages.py:48 元素定位成功, tag_name=input
+INFO     pages:pages.py:22 访问元素chengshi
+INFO     pages:pages.py:33 正在定位元素//*[@id="billing:city"]
+INFO     pages:pages.py:48 元素定位成功, tag_name=input
+INFO     pages:pages.py:22 访问元素code
+INFO     pages:pages.py:33 正在定位元素//*[@id="billing:zip"]
+INFO     pages:pages.py:48 元素定位成功, tag_name=input
+INFO     pages:pages.py:130 页面输入结束~
+INFO     pages:pages.py:137 页面交互：{'self': <pages.GouwuPage object at 0x04E9A790>}
+INFO     pages:pages.py:22 访问元素order
+INFO     pages:pages.py:33 正在定位元素//*[@id="onestepcheckout-place-order"]
+INFO     pages:pages.py:48 元素定位成功, tag_name=a
+INFO     pages:pages.py:139 页面交互成功
+INFO     test_day1:test_day1.py:52 测试用例执行完毕~
+INFO     test_day1:test_day1.py:67 填写货运地址信息---

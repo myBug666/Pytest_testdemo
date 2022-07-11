@@ -1,0 +1,139 @@
+{
+  "uid" : "1e8faf70160633f2",
+  "name" : "test_gouwu[tian-jc-123@qq.com-13812345678-福庆路街道55号-Antigua and Barbuda-安提瓜和巴布-北京城市-01001]",
+  "fullName" : "test_day1#test_gouwu",
+  "historyId" : "214f52e1490480f1123da472efd269e3",
+  "time" : {
+    "start" : 1657175362199,
+    "stop" : 1657175362199,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: 测试用例不依次执行，需调用执行~",
+  "statusTrace" : "('C:\\\\Users\\\\Administrator\\\\Desktop\\\\test\\\\TestDome\\\\test_day1.py', 43, 'Skipped: 测试用例不依次执行，需调用执行~')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1657175324148,
+      "stop" : 1657175328446,
+      "duration" : 4298
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1657175362201,
+      "stop" : 1657175366674,
+      "duration" : 4473
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skip(<function driver at 0x048D9C40>, reason='测试用例不依次执行，需调用执行~')"
+  }, {
+    "name" : "suite",
+    "value" : "test_day1"
+  }, {
+    "name" : "host",
+    "value" : "WIN-A7IIGHBBGE6"
+  }, {
+    "name" : "thread",
+    "value" : "20368-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_day1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "chengshi",
+    "value" : "'北京城市'"
+  }, {
+    "name" : "code",
+    "value" : "'01001'"
+  }, {
+    "name" : "email",
+    "value" : "'123@qq.com'"
+  }, {
+    "name" : "phone",
+    "value" : "'13812345678'"
+  }, {
+    "name" : "sheng",
+    "value" : "'安提瓜和巴布'"
+  }, {
+    "name" : "street1",
+    "value" : "'福庆路街道55号'"
+  }, {
+    "name" : "user1",
+    "value" : "'tian'"
+  }, {
+    "name" : "user2",
+    "value" : "'jc'"
+  }, {
+    "name" : "value",
+    "value" : "'Antigua and Barbuda'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2281caa2362f629a",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 测试用例不依次执行，需调用执行~",
+      "time" : {
+        "start" : 1657175319144,
+        "stop" : 1657175319144,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "88d07011d8aa91a7",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 测试用例不依次执行，需调用执行~",
+      "time" : {
+        "start" : 1657174384672,
+        "stop" : 1657174384672,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ffb063af74dfb3ce",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 测试用例不依次执行，需调用执行~",
+      "time" : {
+        "start" : 1657174329912,
+        "stop" : 1657174329912,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skip(<function driver at 0x048D9C40>, reason='测试用例不依次执行，需调用执行~')" ]
+  },
+  "source" : "1e8faf70160633f2.json",
+  "parameterValues" : [ "'北京城市'", "'01001'", "'123@qq.com'", "'13812345678'", "'安提瓜和巴布'", "'福庆路街道55号'", "'tian'", "'jc'", "'Antigua and Barbuda'" ]
+}

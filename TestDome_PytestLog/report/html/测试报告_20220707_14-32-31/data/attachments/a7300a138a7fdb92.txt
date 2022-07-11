@@ -1,0 +1,16 @@
+INFO     test_case:test_case.py:13 浏览器已启动
+INFO     PageObject:PageObject.py:18 PO实例化成功
+INFO     PageObject:PageObject.py:63 页面交互：{'self': <PageObject.LoginPage object at 0x052BC5E0>, 'username': '728821370@qq.com', 'password': 'tian123456'}
+INFO     PageObject:PageObject.py:22 访问元素username
+INFO     PageObject:PageObject.py:33 正在定位元素//*[@id="email"]
+INFO     PageObject:PageObject.py:48 元素定位成功, tag_name=input
+INFO     PageObject:PageObject.py:22 访问元素password
+INFO     PageObject:PageObject.py:33 正在定位元素//*[@id="pass"]
+INFO     PageObject:PageObject.py:48 元素定位成功, tag_name=input
+INFO     PageObject:PageObject.py:22 访问元素btn
+INFO     PageObject:PageObject.py:33 正在定位元素/html/body/div[1]/div/div[2]/form/div[1]/div[2]/div/ul/div[2]/button/em/span
+INFO     PageObject:PageObject.py:48 元素定位成功, tag_name=span
+INFO     PageObject:PageObject.py:68 页面交互成功
+INFO     PageObject:PageObject.py:77 断言元素找到正常你好, !
+INFO     PageObject:PageObject.py:77 断言元素找到正常你好, !
+INFO     test_case:test_case.py:34 用户信息登录成功

@@ -1,0 +1,121 @@
+{
+  "uid" : "7a54ab4bafdb4911",
+  "name" : "test_login",
+  "fullName" : "test_day1#test_login",
+  "historyId" : "4563020ee40d4ee9485979845d46f58a",
+  "time" : {
+    "start" : 1657174295487,
+    "stop" : 1657174297861,
+    "duration" : 2374
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1657174289078,
+      "stop" : 1657174295468,
+      "duration" : 6390
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b8ecc3e4cc48d513",
+      "name" : "442a3f33-4a8d-41f7-b92e-b6d09ea74fed-attachment.attach",
+      "source" : "b8ecc3e4cc48d513.attach",
+      "type" : "image/png",
+      "size" : 78611
+    }, {
+      "uid" : "f71d1828aabf3580",
+      "name" : "e95a8e56-7f30-4e2e-9de5-00300ac46fbe-attachment.attach",
+      "source" : "f71d1828aabf3580.attach",
+      "type" : "image/png",
+      "size" : 80684
+    }, {
+      "uid" : "9db49aa010c8f204",
+      "name" : "6af589e5-2bb7-4b52-8243-c54046597747-attachment.attach",
+      "source" : "9db49aa010c8f204.attach",
+      "type" : "image/png",
+      "size" : 80938
+    }, {
+      "uid" : "7060bc7de60b8e09",
+      "name" : "9e6fe655-1854-4144-8efb-b82fb3d2cd49-attachment.attach",
+      "source" : "7060bc7de60b8e09.attach",
+      "type" : "image/png",
+      "size" : 70687
+    }, {
+      "uid" : "580c3a117ab837d9",
+      "name" : "log",
+      "source" : "580c3a117ab837d9.txt",
+      "type" : "text/plain",
+      "size" : 990
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1657174329914,
+      "stop" : 1657174335011,
+      "duration" : 5097
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "suite",
+    "value" : "test_day1"
+  }, {
+    "name" : "host",
+    "value" : "WIN-A7IIGHBBGE6"
+  }, {
+    "name" : "thread",
+    "value" : "7020-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_day1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "run(order=2)" ]
+  },
+  "source" : "7a54ab4bafdb4911.json",
+  "parameterValues" : [ ]
+}

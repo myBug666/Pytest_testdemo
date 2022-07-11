@@ -1,0 +1,15 @@
+INFO     pages:pages.py:18 PO实例化成功
+INFO     pages:pages.py:63 页面交互：{'self': <pages.LoginPage object at 0x04FBC6D0>, 'username': '728821370@qq.com', 'password': 'tian123456'}
+INFO     pages:pages.py:22 访问元素username
+INFO     pages:pages.py:33 正在定位元素//*[@id="email"]
+INFO     pages:pages.py:48 元素定位成功, tag_name=input
+INFO     pages:pages.py:22 访问元素password
+INFO     pages:pages.py:33 正在定位元素//*[@id="pass"]
+INFO     pages:pages.py:48 元素定位成功, tag_name=input
+INFO     pages:pages.py:22 访问元素btn
+INFO     pages:pages.py:33 正在定位元素/html/body/div[1]/div/div[2]/form/div[1]/div[2]/div/ul/div[2]/button/em/span
+INFO     pages:pages.py:48 元素定位成功, tag_name=span
+INFO     pages:pages.py:68 页面交互成功
+INFO     pages:pages.py:77 断言元素找到正常你好, !
+INFO     pages:pages.py:77 断言元素找到正常你好, !
+INFO     test_day1:test_day1.py:33 用户信息登录成功
